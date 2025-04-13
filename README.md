@@ -87,8 +87,8 @@ If you prefer a visual explanation, check out this **[Months to Years YouTube Vi
 Converting **60 months to years** is straightforward:  
 - **60 months ÷ 12 = 5 years**  
 - Useful for loans, contracts, and planning  
-Use a **[Months to Years Calculator](https://www.jocalendars.com/months-to-years/)** for quick results  
-Now you can easily convert any number of months into years!  
+- Use a **[Months to Years Calculator](https://www.jocalendars.com/months-to-years/)** for quick results  
+
 
 ---
 
